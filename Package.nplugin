@@ -1,0 +1,18 @@
+{
+    "name": "Animation Library",
+    "version": "1.0",
+    "guid": "d212b201-b5ac-4ac2-97d5-4803f1100da4",
+    "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
+    "asset_directory": "Assets",
+    "thumbnail_guid": "e9e72eb6-2bc3-4eaf-a1b7-d890f5afe4f6",
+    "plugin_dependencies": [
+        "4cc21fd4-730f-475d-9807-fbf9e5595308",
+        "7f333735-7d28-4ede-815b-805aad806b8c",
+        "0f7c1053-884c-4795-a082-2aecf6ba8032",
+        "b7921721-4029-47ce-873c-5d356d604aa9",
+        "eaf8c037-4adf-4a97-99fd-915341d1854c",
+        "f6c31290-cb03-452c-b3de-78f19a8cf943"
+    ],
+    "source": "Package.nplugin",
+    "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359"
+}

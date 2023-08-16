@@ -1,0 +1,166 @@
+{
+    "guid": "3650cb7f-e7db-0f62-dbc0-c9f91b9b7e08",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "184a7e83-1908-3f74-a809-0d178d25106b",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "91304654-52de-c29b-ab49-5007f1a7845a",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Erika Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "5c76574f-502c-94a9-cd32-57cd87aec645",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "b13c4e1f-2663-4753-a928-ef67184a2393",
+                                "9f6e295b-6716-4d0d-a771-6934ef9b804f",
+                                "a022ecad-8df5-4537-95d3-b77e2eed7dac"
+                            ],
+                            "jump_animations": [
+                                "027476d5-faf1-435f-9fd4-8a6c316c05fe",
+                                "130b1aca-eec5-41c2-8452-22c3210e72d1",
+                                "b75238f7-dfa6-431b-8949-67fd46f76291"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "d021dece-0b81-1869-a356-9f44e5926681",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Erika Archer Body"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "96a2d0b8-6aad-bb7e-7a92-4ee8dc9ce174",
+                                "material_instance": "eccc8bbb-9a57-dd00-8dac-31f535dd7760"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "ac5f8d7f-6173-1682-bdb5-0f03b86ccc31"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "eb97e067-672d-ed73-52ed-f669d5fd4d4c",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Erika Archer Bow"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "349f8586-e604-1747-7a6a-6fd6737bd755",
+                                "material_instance": "c4e0790c-2c4a-89aa-452e-25a708cf5b47"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "9041769a-605d-e560-96b9-b0fe2ba976c4"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "177d2d8c-9f65-71c5-df1d-feaebd607c1b",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Erika Arrow1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3f754c60-d5e4-9c80-0333-3d91e9f020fe",
+                                "material_instance": "888d9add-f863-e65c-58e6-82b01aaf8822"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "31b4483e-4c86-49e2-6d98-3327e88f503c"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "99d14cde-4ac3-45fc-40a3-8ff7bc2d678e",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Erika Clothes"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "04bc3195-a739-3f07-cf14-7f8311d91b17",
+                                "material_instance": "78a01e8f-daf2-c57f-ad73-2f78730e9066"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c992628f-5774-0a1e-6cf7-8cbd332a5300"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "0834b646-4bd1-be0c-5c9c-9722f01332dd"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "3650cb7f-e7db-0f62-dbc0-c9f91b9b7e08"
+    },
+    "dependencies": [
+        "eccc8bbb-9a57-dd00-8dac-31f535dd7760",
+        "96a2d0b8-6aad-bb7e-7a92-4ee8dc9ce174",
+        "ac5f8d7f-6173-1682-bdb5-0f03b86ccc31",
+        "c4e0790c-2c4a-89aa-452e-25a708cf5b47",
+        "349f8586-e604-1747-7a6a-6fd6737bd755",
+        "9041769a-605d-e560-96b9-b0fe2ba976c4",
+        "888d9add-f863-e65c-58e6-82b01aaf8822",
+        "3f754c60-d5e4-9c80-0333-3d91e9f020fe",
+        "31b4483e-4c86-49e2-6d98-3327e88f503c",
+        "78a01e8f-daf2-c57f-ad73-2f78730e9066",
+        "04bc3195-a739-3f07-cf14-7f8311d91b17",
+        "c992628f-5774-0a1e-6cf7-8cbd332a5300",
+        "0834b646-4bd1-be0c-5c9c-9722f01332dd"
+    ]
+}

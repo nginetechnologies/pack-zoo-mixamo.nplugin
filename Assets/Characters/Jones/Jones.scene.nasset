@@ -1,5 +1,5 @@
 {
-    "guid": "5cfddef9-ee88-48d4-89a7-7676216c93de",
+    "guid": "61ea1d93-89fc-45e7-aa17-af92ab53d084",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 1024.0
@@ -134,7 +134,7 @@
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Dummy Scene"
+                                    "name": "Jones Scene"
                                 }
                             ]
                         }
@@ -172,9 +172,9 @@
     },
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "5cfddef9-ee88-48d4-89a7-7676216c93de"
+        "scene": "61ea1d93-89fc-45e7-aa17-af92ab53d084"
     },
-    "thumbnailGuid": "adadf903-0010-42b9-bc54-b10c7097bbcc",
+    "thumbnailGuid": "7ea6600f-cfca-48ae-842a-e9a43196bc4a",
     "dependencies": [
         ""
     ]

@@ -1,5 +1,5 @@
 {
-    "guid": "79ed6e39-17ba-4278-9cdc-cfd3ca5727fd",
+    "guid": "2ed30e76-334b-4c59-bd47-4a73f68dda3f",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 1024.0
@@ -172,7 +172,7 @@
     },
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "79ed6e39-17ba-4278-9cdc-cfd3ca5727fd"
+        "scene": "2ed30e76-334b-4c59-bd47-4a73f68dda3f"
     },
     "thumbnailGuid": "a94dfd1f-c16d-442e-9ecd-ccb6ff513813",
     "dependencies": [

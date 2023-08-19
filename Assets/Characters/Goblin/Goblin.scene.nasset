@@ -1,5 +1,5 @@
 {
-    "guid": "5cfddef9-ee88-48d4-89a7-7676216c93de",
+    "guid": "a0e9d2dd-b7ee-43f8-8d52-a3af60ce29af",
     "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
     "2a2bce0a-6314-481b-a5a0-7d01e1c00b35": {
         "radius": 1024.0
@@ -134,7 +134,7 @@
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Dummy Scene"
+                                    "name": "Goblin Scene"
                                 }
                             ]
                         }
@@ -172,9 +172,9 @@
     },
     "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
     "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-        "scene": "5cfddef9-ee88-48d4-89a7-7676216c93de"
+        "scene": "a0e9d2dd-b7ee-43f8-8d52-a3af60ce29af"
     },
-    "thumbnailGuid": "adadf903-0010-42b9-bc54-b10c7097bbcc",
+    "thumbnailGuid": "1d083e48-7bb2-48d7-b6f6-1e1d6c93b974",
     "dependencies": [
         ""
     ]

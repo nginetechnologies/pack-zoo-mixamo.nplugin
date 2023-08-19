@@ -1,5 +1,5 @@
 {
-    "source": "A_Elmer_Jump_Start.fbx",
+    "source": "A_Jones_Jump_Start.fbx",
     "skeleton": "0834b646-4bd1-be0c-5c9c-9722f01332dd",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "6815eb75-e401-6bb5-e430-8c6dbac06508",
@@ -9,10 +9,10 @@
     "data_components": [
         {
             "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
-            "animation": "30876f54-5833-4e89-883b-d30860c25f0e"
+            "animation": "bf310e5a-79e4-44f9-86a9-012128e0eaa9"
         }
     ],
-    "guid": "30876f54-5833-4e89-883b-d30860c25f0e",
+    "guid": "bf310e5a-79e4-44f9-86a9-012128e0eaa9",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
         "0834b646-4bd1-be0c-5c9c-9722f01332dd"

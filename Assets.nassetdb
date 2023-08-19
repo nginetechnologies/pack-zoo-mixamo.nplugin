@@ -1,0 +1,53 @@
+{
+    "04796b14-705b-5516-1d1e-c22ffccdf915": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/Abe/Material Instances/Abe.mtli.nasset",
+        "dependencies": [
+            "846a87e3-b738-4471-a336-bcac78e126b1",
+            "bc3d96d6-aaa5-802a-d2b9-666c4d580196"
+        ]
+    },
+    "39079ac2-a6e8-4761-92c6-df0583889354": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "path": "Assets/Characters/Abe/SK_Abe.scene.nasset/SK Abe.mesh.nasset/SK Abe.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ]
+    },
+    "734bddca-e544-a962-39b2-f21d77930e7b": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/Abe/SK_Abe.scene.nasset/SK Abe.mesh.nasset/SK Abe Abe.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "04796b14-705b-5516-1d1e-c22ffccdf915",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "b2590946-bea5-e389-0838-90744759845a": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/Abe/SK_Abe.scene.nasset/SK Abe.mesh.nasset/SK Abe Abe.meshskin.nasset",
+        "dependencies": [
+            "734bddca-e544-a962-39b2-f21d77930e7b",
+            "e3dd0fc1-9d40-9fec-1713-280b37b3815a",
+            "04796b14-705b-5516-1d1e-c22ffccdf915"
+        ]
+    },
+    "bc3d96d6-aaa5-802a-d2b9-666c4d580196": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/Abe/Textures/T_Abe_D.tex.nasset"
+    },
+    "dcdda382-2843-b30d-36a7-9b58d6dc8828": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "path": "Assets/Characters/Abe/SK_Abe.scene.nasset/SK_Abe.scene.nasset"
+    },
+    "e3dd0fc1-9d40-9fec-1713-280b37b3815a": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/Abe/SK_Abe.scene.nasset/SK Abe.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "guid": "f399d4ab-82fd-8765-b56b-db9dfc905030"
+}

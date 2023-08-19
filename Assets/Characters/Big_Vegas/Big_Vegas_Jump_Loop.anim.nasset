@@ -1,0 +1,20 @@
+{
+    "source": "A_Big_Vegas_Jump_Loop.fbx",
+    "skeleton": "0834b646-4bd1-be0c-5c9c-9722f01332dd",
+    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+    "instanceGuid": "4fba63ab-ba4d-4b62-4de9-29c64315abfb",
+    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+        "skeleton": "0834b646-4bd1-be0c-5c9c-9722f01332dd"
+    },
+    "data_components": [
+        {
+            "typeGuid": "ada8de9b-70b3-4e23-8cc8-60febac91165",
+            "animation": "ee1a9fa3-1cc8-4314-b398-be1b349ccc19"
+        }
+    ],
+    "guid": "ee1a9fa3-1cc8-4314-b398-be1b349ccc19",
+    "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+    "dependencies": [
+        "0834b646-4bd1-be0c-5c9c-9722f01332dd"
+    ]
+}

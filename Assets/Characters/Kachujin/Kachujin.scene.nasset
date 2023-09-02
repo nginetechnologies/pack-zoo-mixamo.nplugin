@@ -36,8 +36,8 @@
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "position": [
                             0,
-                            -5,
-                            0.75
+                            -2,
+                            0.5
                         ],
                         "rotation": [
                             -20.0,
@@ -125,11 +125,11 @@
                                     -0.6
                                 ],
                                 "scale": [
-                                    0.66
+                                    1.0
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": ""
+                                "scene": "74667cd2-c678-2a88-dc94-d89f522fe63e"
                             },
                             "data_components": [
                                 {
@@ -176,6 +176,6 @@
     },
     "thumbnailGuid": "e5d0dbce-2dca-4c48-9149-6a42020c309c",
     "dependencies": [
-        ""
+        "74667cd2-c678-2a88-dc94-d89f522fe63e"
     ]
 }

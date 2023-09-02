@@ -1,0 +1,120 @@
+{
+    "guid": "d95528b2-b146-3c89-383f-05a75957d716",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "93e6a66b-09b1-3d8c-7725-61cd83088619",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "8ed4e2f4-0ae8-7bda-793e-4f36240b328f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Vanguard Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "ba6721ca-6869-c5f1-229f-d5d23f3c5943",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "6580c1b1-4aa2-4165-b622-7e3041b15c29",
+                                "5287ddc3-bd91-48b2-892a-fbd228087965",
+                                "1696b7f1-a59b-451b-95ec-7493eae8daa9"
+                            ],
+                            "jump_animations": [
+                                "3adde89f-0f75-4cda-a9e5-da8ee1887ce9",
+                                "e0b2d215-5343-49ec-9744-334b6b73764d",
+                                "80a504b5-b2b7-42d0-b36a-18307ace7536"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "bc2fbfa8-3d20-5b4d-b5b9-94bde5dcd183",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Vanguard Vanguard VisorMat"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "c5555633-6bc4-b0e2-f156-051359701068",
+                                "material_instance": "6ca3b875-4568-4183-efee-2dd20d63e7dd"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "5f9e3864-657f-f813-9a1e-be7f52fade41"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "98f341fb-8181-629e-51fb-d4272d620edc",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Vanguard Vanguard"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "d4a0e88c-0fe0-8d00-980d-b18d6029095c",
+                                "material_instance": "5c84eab9-fc12-74cb-76b0-003f0fe634fb"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "1d8abe1c-587d-13aa-88be-ac6f1ecfc5b2"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "0a4b4d7f-32a8-2d42-be44-70fc8a7367d1"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "d95528b2-b146-3c89-383f-05a75957d716"
+    },
+    "dependencies": [
+        "6ca3b875-4568-4183-efee-2dd20d63e7dd",
+        "c5555633-6bc4-b0e2-f156-051359701068",
+        "5f9e3864-657f-f813-9a1e-be7f52fade41",
+        "5c84eab9-fc12-74cb-76b0-003f0fe634fb",
+        "d4a0e88c-0fe0-8d00-980d-b18d6029095c",
+        "1d8abe1c-587d-13aa-88be-ac6f1ecfc5b2",
+        "0a4b4d7f-32a8-2d42-be44-70fc8a7367d1",
+        "6580c1b1-4aa2-4165-b622-7e3041b15c29",
+        "5287ddc3-bd91-48b2-892a-fbd228087965",
+        "1696b7f1-a59b-451b-95ec-7493eae8daa9",
+        "3adde89f-0f75-4cda-a9e5-da8ee1887ce9",
+        "e0b2d215-5343-49ec-9744-334b6b73764d",
+        "80a504b5-b2b7-42d0-b36a-18307ace7536"
+    ]
+}

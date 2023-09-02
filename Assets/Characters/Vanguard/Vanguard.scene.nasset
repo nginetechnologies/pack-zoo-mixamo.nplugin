@@ -36,8 +36,8 @@
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "position": [
                             0,
-                            -5,
-                            0.75
+                            -2,
+                            0.5
                         ],
                         "rotation": [
                             -20.0,
@@ -125,16 +125,16 @@
                                     -0.6
                                 ],
                                 "scale": [
-                                    0.66
+                                    1.0
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": ""
+                                "scene": "d95528b2-b146-3c89-383f-05a75957d716"
                             },
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Dummy Scene"
+                                    "name": "Vanguard Scene"
                                 }
                             ]
                         }
@@ -176,6 +176,6 @@
     },
     "thumbnailGuid": "88fa930a-9c7a-4b25-ad3c-1f8718fe2361",
     "dependencies": [
-        ""
+        "d95528b2-b146-3c89-383f-05a75957d716"
     ]
 }

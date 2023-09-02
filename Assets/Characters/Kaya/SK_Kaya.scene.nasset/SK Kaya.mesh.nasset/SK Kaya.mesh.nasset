@@ -1,0 +1,94 @@
+{
+    "guid": "44f56045-fa56-d080-496a-3ca673796eab",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "190f1e4e-73c7-4859-bce7-dd73d6ca8bbd",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "decda484-363a-be38-47e4-b8356737e4cb",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Kaya Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "eca3f2cb-4404-6bd6-adee-d6cde689fb25",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "f0524263-e937-459f-97df-86c5552f2b5c",
+                                "3c369238-3cf5-4f88-8723-364b2ea0a8c2",
+                                "5b585f49-a594-4edd-8424-cda68801bb7d"
+                            ],
+                            "jump_animations": [
+                                "a1cdfb38-853a-4d24-a652-97622803305c",
+                                "aec7d88a-c512-4d10-bf26-3355cf3b2079",
+                                "9269bc55-b3e2-4215-8adb-a25756e7d192"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "af1c7a97-c04c-382d-c7ca-1dee12ca60f5",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Kaya Kaya"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "900fa5c0-5d62-5600-0d26-0da8783eee51",
+                                "material_instance": "9d74e7bd-75ff-66d1-d923-67429a6c3086"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "59304741-853d-b58a-e4b9-a042168a590c"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "d79fa97a-91a9-16c5-d4f5-12d6bc7498ed"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "44f56045-fa56-d080-496a-3ca673796eab"
+    },
+    "dependencies": [
+        "9d74e7bd-75ff-66d1-d923-67429a6c3086",
+        "900fa5c0-5d62-5600-0d26-0da8783eee51",
+        "59304741-853d-b58a-e4b9-a042168a590c",
+        "d79fa97a-91a9-16c5-d4f5-12d6bc7498ed",
+        "f0524263-e937-459f-97df-86c5552f2b5c",
+        "3c369238-3cf5-4f88-8723-364b2ea0a8c2",
+        "5b585f49-a594-4edd-8424-cda68801bb7d",
+        "a1cdfb38-853a-4d24-a652-97622803305c",
+        "aec7d88a-c512-4d10-bf26-3355cf3b2079",
+        "9269bc55-b3e2-4215-8adb-a25756e7d192"
+    ]
+}

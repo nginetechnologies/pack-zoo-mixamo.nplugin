@@ -1,10 +1,10 @@
 {
     "source": "A_Mutant_Jump_End.fbx",
-    "skeleton": "0834b646-4bd1-be0c-5c9c-9722f01332dd",
+    "skeleton": "d3215f9a-e003-9095-2441-06a2fe91e5ae",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "a7edeebb-4fb2-10a7-a89c-c941f4b4f368",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "0834b646-4bd1-be0c-5c9c-9722f01332dd"
+        "skeleton": "d3215f9a-e003-9095-2441-06a2fe91e5ae"
     },
     "data_components": [
         {
@@ -15,6 +15,6 @@
     "guid": "e13d4b46-3b0c-4b70-b2a5-c04b02e24c13",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        "0834b646-4bd1-be0c-5c9c-9722f01332dd"
+        "d3215f9a-e003-9095-2441-06a2fe91e5ae"
     ]
 }

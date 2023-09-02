@@ -1,0 +1,146 @@
+{
+    "guid": "3f4528df-3fdc-e2c2-b03d-3e333e6f1591",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "3f61910d-fb6b-0b43-8f6d-d49aecdb3678",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "809ec66e-6519-f639-6e85-2f34de947a6f",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Steve Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "70759c19-4ef3-2514-4082-8d639e0696a4",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "963463be-295a-49d5-854c-8e23f5337f36",
+                                "165d9133-336c-4af1-9908-eac58512e909",
+                                "cc73c8bc-5216-4c98-bf84-6631f63f2ba2"
+                            ],
+                            "jump_animations": [
+                                "aa25701c-9987-419f-a63d-bbaa25585dd2",
+                                "f720304a-80b8-475b-a4be-cefba34d7f46",
+                                "fe409882-7033-4c46-9059-d7c7f3e4fe6d"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "9abee4cb-e43a-1e21-67ba-4ed104624ace",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Steve Steve 2"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7142e1a5-e5e0-66cf-743a-d339ab8506f9",
+                                "material_instance": "558f1c4b-790c-89b1-f915-959db0ab8430"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "68908a6f-9bc6-ec50-9904-63ee434c62ec"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "bb85c28a-2773-4caf-03d1-1f5e0aeae712",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Steve Steve 1"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ca3a0f72-a924-6ba9-84d6-8b8b64ac39b9",
+                                "material_instance": "29b72ce8-2194-84e0-12f5-49e23f55ee2b"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "c99bffd1-4327-86a5-786f-58f42ab5e086"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "48521d69-539a-0434-f16e-fee04e125013",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Steve Ch 49 eyelashes"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "4cfcd3aa-7352-cd3c-e598-489fb2d7c56e",
+                                "material_instance": "2dc614d6-fd0a-5a73-80b8-678b244304d0"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "e1c77890-8a90-3da9-7ad8-f347b40081e9"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "b41fd479-720f-e53d-7e32-3285fae26e60"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "3f4528df-3fdc-e2c2-b03d-3e333e6f1591"
+    },
+    "dependencies": [
+        "558f1c4b-790c-89b1-f915-959db0ab8430",
+        "7142e1a5-e5e0-66cf-743a-d339ab8506f9",
+        "68908a6f-9bc6-ec50-9904-63ee434c62ec",
+        "29b72ce8-2194-84e0-12f5-49e23f55ee2b",
+        "ca3a0f72-a924-6ba9-84d6-8b8b64ac39b9",
+        "c99bffd1-4327-86a5-786f-58f42ab5e086",
+        "2dc614d6-fd0a-5a73-80b8-678b244304d0",
+        "4cfcd3aa-7352-cd3c-e598-489fb2d7c56e",
+        "e1c77890-8a90-3da9-7ad8-f347b40081e9",
+        "b41fd479-720f-e53d-7e32-3285fae26e60",
+        "963463be-295a-49d5-854c-8e23f5337f36",
+        "165d9133-336c-4af1-9908-eac58512e909",
+        "cc73c8bc-5216-4c98-bf84-6631f63f2ba2",
+        "aa25701c-9987-419f-a63d-bbaa25585dd2",
+        "f720304a-80b8-475b-a4be-cefba34d7f46",
+        "fe409882-7033-4c46-9059-d7c7f3e4fe6d"
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "guid": "779916fd-70c4-4d9f-ed2a-bcbbae18af46",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "0d28a310-ef11-4852-a069-8de31f422b2f",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "244c6bcd-e8df-611f-405b-3b6afae11653",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Mutant Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "de307ce1-7892-fc66-1711-8f57b43bcca7",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "1e0da015-c50a-43f5-868e-0f365c136e17",
+                                "e232891f-3871-4a4f-b9de-b18a2f19f67e",
+                                "47b5a864-8507-4e2e-a4d7-b7d10b16cd7f"
+                            ],
+                            "jump_animations": [
+                                "c03dcc35-b19f-4772-b0bf-5b0a62105699",
+                                "ce6831e9-72c8-4b95-95e5-eef67e496c50",
+                                "e13d4b46-3b0c-4b70-b2a5-c04b02e24c13"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "47274772-33ab-13f7-b5bb-951c911b1df6",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Mutant Mutant"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "ccafbf58-c9eb-5e9f-9870-51eee8addf61",
+                                "material_instance": "0bb84bff-2f47-66b9-f507-e237a37b9317"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "72856c0b-0e3f-2442-41aa-31bf704ade70"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "d3215f9a-e003-9095-2441-06a2fe91e5ae"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "779916fd-70c4-4d9f-ed2a-bcbbae18af46"
+    },
+    "dependencies": [
+        "0bb84bff-2f47-66b9-f507-e237a37b9317",
+        "ccafbf58-c9eb-5e9f-9870-51eee8addf61",
+        "72856c0b-0e3f-2442-41aa-31bf704ade70",
+        "d3215f9a-e003-9095-2441-06a2fe91e5ae",
+        "1e0da015-c50a-43f5-868e-0f365c136e17",
+        "e232891f-3871-4a4f-b9de-b18a2f19f67e",
+        "47b5a864-8507-4e2e-a4d7-b7d10b16cd7f",
+        "c03dcc35-b19f-4772-b0bf-5b0a62105699",
+        "ce6831e9-72c8-4b95-95e5-eef67e496c50",
+        "e13d4b46-3b0c-4b70-b2a5-c04b02e24c13"
+    ]
+}

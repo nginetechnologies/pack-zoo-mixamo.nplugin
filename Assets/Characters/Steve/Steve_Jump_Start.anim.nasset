@@ -1,10 +1,10 @@
 {
     "source": "A_Steve_Jump_Start.fbx",
-    "skeleton": "0834b646-4bd1-be0c-5c9c-9722f01332dd",
+    "skeleton": "b41fd479-720f-e53d-7e32-3285fae26e60",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "6815eb75-e401-6bb5-e430-8c6dbac06508",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "0834b646-4bd1-be0c-5c9c-9722f01332dd"
+        "skeleton": "b41fd479-720f-e53d-7e32-3285fae26e60"
     },
     "data_components": [
         {
@@ -15,6 +15,6 @@
     "guid": "aa25701c-9987-419f-a63d-bbaa25585dd2",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        "0834b646-4bd1-be0c-5c9c-9722f01332dd"
+        "b41fd479-720f-e53d-7e32-3285fae26e60"
     ]
 }

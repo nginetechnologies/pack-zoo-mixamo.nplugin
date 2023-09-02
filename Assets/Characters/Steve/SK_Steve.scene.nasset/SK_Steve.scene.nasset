@@ -1,0 +1,34 @@
+{
+    "guid": "6609e20a-bcf7-fd79-b973-6d558260c0bd",
+    "source": "../SK_Steve.fbx",
+    "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "f62a73d9-c1ee-6d95-3014-32fb86e4a4b8",
+    "data_components": [
+        {
+            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+            "name": "SK Steve"
+        }
+    ],
+    "children": [
+        {
+            "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+            "instanceGuid": "1283ed50-039a-d921-3ef6-4f7d0f0bc766",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Steve"
+                }
+            ],
+            "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+                "scene": "3f4528df-3fdc-e2c2-b03d-3e333e6f1591"
+            }
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "6609e20a-bcf7-fd79-b973-6d558260c0bd"
+    },
+    "dependencies": [
+        "3f4528df-3fdc-e2c2-b03d-3e333e6f1591"
+    ]
+}

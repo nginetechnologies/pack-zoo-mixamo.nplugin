@@ -1,10 +1,10 @@
 {
     "source": "A_Vanguard_Jump_End.fbx",
-    "skeleton": "0834b646-4bd1-be0c-5c9c-9722f01332dd",
+    "skeleton": "0a4b4d7f-32a8-2d42-be44-70fc8a7367d1",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "a7edeebb-4fb2-10a7-a89c-c941f4b4f368",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "0834b646-4bd1-be0c-5c9c-9722f01332dd"
+        "skeleton": "0a4b4d7f-32a8-2d42-be44-70fc8a7367d1"
     },
     "data_components": [
         {
@@ -15,6 +15,6 @@
     "guid": "80a504b5-b2b7-42d0-b36a-18307ace7536",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        "0834b646-4bd1-be0c-5c9c-9722f01332dd"
+        "0a4b4d7f-32a8-2d42-be44-70fc8a7367d1"
     ]
 }

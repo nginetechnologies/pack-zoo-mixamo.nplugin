@@ -1,0 +1,120 @@
+{
+    "guid": "74667cd2-c678-2a88-dc94-d89f522fe63e",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "e8b0f190-432e-040c-40d4-6006ccdbd4ba",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "b76842a4-b38e-4dce-d780-017cd6a81d23",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Kachujin Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "56354e2c-52b2-054e-23fb-f6bc9dcffb3f",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "4dc80dfc-c2e8-44ca-9058-6d69fa3626e3",
+                                "82bac986-eb1e-4063-9d22-106e2dd3679a",
+                                "650f70df-786c-4bce-a0b1-1cb0077b3eb1"
+                            ],
+                            "jump_animations": [
+                                "386f3bd3-59c3-4cb4-97ba-6bd9167ecda5",
+                                "ca79680d-617e-4c73-9404-6c1fb76856fe",
+                                "cf964adb-8e47-409f-8974-e717be3ef02c"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "f11f2db1-1f58-98f7-7bbe-e3fb1c5fbd93",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Kachujin kachujin MAT"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "3e39e9ea-c834-8de8-c002-8c73ffcf1216",
+                                "material_instance": "464961e0-5651-84ce-7c7b-7bf11fad30ee"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "1cb726f0-29e7-bd3a-9718-6de13ac964bd"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "f70d184d-7351-d846-60b5-880fd7717651",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Kachujin Kachujin Fringe"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7b9607b5-8dda-7cf5-e06e-8b9bc2442f48",
+                                "material_instance": "9f4cc1d7-af45-4309-4612-c56bc6b289aa"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b93435b5-b028-c009-5d58-b0780b3c44a4"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "70711f74-4f21-e9cd-74b8-164e868dd5d8"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "74667cd2-c678-2a88-dc94-d89f522fe63e"
+    },
+    "dependencies": [
+        "464961e0-5651-84ce-7c7b-7bf11fad30ee",
+        "3e39e9ea-c834-8de8-c002-8c73ffcf1216",
+        "1cb726f0-29e7-bd3a-9718-6de13ac964bd",
+        "9f4cc1d7-af45-4309-4612-c56bc6b289aa",
+        "7b9607b5-8dda-7cf5-e06e-8b9bc2442f48",
+        "b93435b5-b028-c009-5d58-b0780b3c44a4",
+        "70711f74-4f21-e9cd-74b8-164e868dd5d8",
+        "4dc80dfc-c2e8-44ca-9058-6d69fa3626e3",
+        "82bac986-eb1e-4063-9d22-106e2dd3679a",
+        "650f70df-786c-4bce-a0b1-1cb0077b3eb1",
+        "386f3bd3-59c3-4cb4-97ba-6bd9167ecda5",
+        "ca79680d-617e-4c73-9404-6c1fb76856fe",
+        "cf964adb-8e47-409f-8974-e717be3ef02c"
+    ]
+}

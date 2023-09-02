@@ -1,0 +1,94 @@
+{
+    "guid": "bae9eb1b-ff55-8ba9-ccd6-a45436e4c542",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "5b4e4ab5-168d-b8e3-4dbd-19308f166661",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "3e0f6f07-78ce-4901-1a8d-966ee0fe4e61",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Nordstrom Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "ad48cd11-4684-a7fe-50f4-2935faafcf60",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "c8d8e7e1-01f9-4444-8020-7efa2267f7c2",
+                                "b73a36fa-bce2-4e03-88e9-8b20ffb0c89f",
+                                "8e631326-99b3-4faa-b722-63f9ae236c49"
+                            ],
+                            "jump_animations": [
+                                "b046271e-4bbe-46a4-a314-4dd429631f7a",
+                                "020ba9ab-5e26-4e0b-a790-24ac96490054",
+                                "c936c4a4-27f4-4e9b-9159-9ea09ad99aa6"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "b0db4a6c-3748-1e5a-1d37-69f6c9d9a350",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Nordstrom Nordstrom"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "7b16e701-4658-eece-067e-f80f2f1ca756",
+                                "material_instance": "ffbeaa5d-3646-4186-e507-f8f09da2a1d8"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "8c106946-d9d2-f756-dacf-be12e1b832a1"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "24d39dd4-7bcb-be9a-ae6c-2c7b27df6540"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "bae9eb1b-ff55-8ba9-ccd6-a45436e4c542"
+    },
+    "dependencies": [
+        "ffbeaa5d-3646-4186-e507-f8f09da2a1d8",
+        "7b16e701-4658-eece-067e-f80f2f1ca756",
+        "8c106946-d9d2-f756-dacf-be12e1b832a1",
+        "24d39dd4-7bcb-be9a-ae6c-2c7b27df6540",
+        "c8d8e7e1-01f9-4444-8020-7efa2267f7c2",
+        "b73a36fa-bce2-4e03-88e9-8b20ffb0c89f",
+        "8e631326-99b3-4faa-b722-63f9ae236c49",
+        "b046271e-4bbe-46a4-a314-4dd429631f7a",
+        "020ba9ab-5e26-4e0b-a790-24ac96490054",
+        "c936c4a4-27f4-4e9b-9159-9ea09ad99aa6"
+    ]
+}

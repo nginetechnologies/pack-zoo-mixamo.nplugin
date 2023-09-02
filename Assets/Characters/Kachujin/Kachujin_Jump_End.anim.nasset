@@ -1,10 +1,10 @@
 {
     "source": "A_Kachujin_Jump_End.fbx",
-    "skeleton": "0834b646-4bd1-be0c-5c9c-9722f01332dd",
+    "skeleton": "70711f74-4f21-e9cd-74b8-164e868dd5d8",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "a7edeebb-4fb2-10a7-a89c-c941f4b4f368",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "0834b646-4bd1-be0c-5c9c-9722f01332dd"
+        "skeleton": "70711f74-4f21-e9cd-74b8-164e868dd5d8"
     },
     "data_components": [
         {
@@ -15,6 +15,6 @@
     "guid": "cf964adb-8e47-409f-8974-e717be3ef02c",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        "0834b646-4bd1-be0c-5c9c-9722f01332dd"
+        "70711f74-4f21-e9cd-74b8-164e868dd5d8"
     ]
 }

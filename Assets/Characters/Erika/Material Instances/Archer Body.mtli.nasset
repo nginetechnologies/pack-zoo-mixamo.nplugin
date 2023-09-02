@@ -2,23 +2,25 @@
     "guid": "eccc8bbb-9a57-dd00-8dac-31f535dd7760",
     "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
     "dependencies": [
-        "846a87e3-b738-4471-a336-bcac78e126b1",
-        "a46a3471-b5c0-367d-5862-dc4d3aab995c"
+        "ade8b81e-1edf-443a-8af7-37473edf1390",
+        "a46a3471-b5c0-367d-5862-dc4d3aab995c",
+        "36e2a009-3dfc-8f31-38b5-40e32c42c6c6",
+        "b53b581c-c019-c6d8-a9d1-1643b4514abe",
+        "82942145-52f1-0837-cf4a-71668fa1dfe4"
     ],
-    "material": "846a87e3-b738-4471-a336-bcac78e126b1",
+    "material": "ade8b81e-1edf-443a-8af7-37473edf1390",
     "descriptor_contents": [
         {
             "texture": "a46a3471-b5c0-367d-5862-dc4d3aab995c"
-        }
-    ],
-    "push_constants": [
-        {
-            "type": 1,
-            "value": 0.5
         },
         {
-            "type": 1,
-            "value": 0.7487
+            "texture": "36e2a009-3dfc-8f31-38b5-40e32c42c6c6"
+        },
+        {
+            "texture": "b53b581c-c019-c6d8-a9d1-1643b4514abe"
+        },
+        {
+            "texture": "82942145-52f1-0837-cf4a-71668fa1dfe4"
         }
     ]
 }

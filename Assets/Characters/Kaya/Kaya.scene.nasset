@@ -16,9 +16,9 @@
             "typeGuid": "d4e4838b-b9dc-4788-8e33-7316ffef1693",
             "d4e4838b-b9dc-4788-8e33-7316ffef1693": {
                 "jumpHeight": 1.2,
-                "walkingSpeed": 2.0,
+                "walkingSpeed": 0.25,
                 "runningSpeed": 4.0,
-                "walkingTurnSpeed": 3.0,
+                "walkingTurnSpeed": 2.0,
                 "runningTurnSpeed": 5.5
             },
             "data_components": [
@@ -36,8 +36,8 @@
                     "de8f8da2-d37f-41da-bc6e-580435fe605f": {
                         "position": [
                             0,
-                            -5,
-                            0.75
+                            -2,
+                            0.5
                         ],
                         "rotation": [
                             -20.0,
@@ -125,16 +125,16 @@
                                     -0.6
                                 ],
                                 "scale": [
-                                    0.66
+                                    1.0
                                 ]
                             },
                             "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
-                                "scene": ""
+                                "scene": "44f56045-fa56-d080-496a-3ca673796eab"
                             },
                             "data_components": [
                                 {
                                     "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
-                                    "name": "Dummy Scene"
+                                    "name": "Kaya Scene"
                                 }
                             ]
                         }
@@ -176,6 +176,6 @@
     },
     "thumbnailGuid": "03687d5a-5f3a-4bef-8406-4c2ff6af2e72",
     "dependencies": [
-        ""
+        "44f56045-fa56-d080-496a-3ca673796eab"
     ]
 }

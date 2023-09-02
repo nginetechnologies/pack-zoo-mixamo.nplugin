@@ -1,10 +1,10 @@
 {
     "source": "A_Steve_Jump_End.fbx",
-    "skeleton": "0834b646-4bd1-be0c-5c9c-9722f01332dd",
+    "skeleton": "b41fd479-720f-e53d-7e32-3285fae26e60",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "a7edeebb-4fb2-10a7-a89c-c941f4b4f368",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "0834b646-4bd1-be0c-5c9c-9722f01332dd"
+        "skeleton": "b41fd479-720f-e53d-7e32-3285fae26e60"
     },
     "data_components": [
         {
@@ -15,6 +15,6 @@
     "guid": "fe409882-7033-4c46-9059-d7c7f3e4fe6d",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        "0834b646-4bd1-be0c-5c9c-9722f01332dd"
+        "b41fd479-720f-e53d-7e32-3285fae26e60"
     ]
 }

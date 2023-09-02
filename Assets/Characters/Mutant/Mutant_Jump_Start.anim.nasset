@@ -1,10 +1,10 @@
 {
     "source": "A_Mutant_Jump_Start.fbx",
-    "skeleton": "0834b646-4bd1-be0c-5c9c-9722f01332dd",
+    "skeleton": "d3215f9a-e003-9095-2441-06a2fe91e5ae",
     "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
     "instanceGuid": "6815eb75-e401-6bb5-e430-8c6dbac06508",
     "f6140603-c29e-4bf9-946d-498dba6709ff": {
-        "skeleton": "0834b646-4bd1-be0c-5c9c-9722f01332dd"
+        "skeleton": "d3215f9a-e003-9095-2441-06a2fe91e5ae"
     },
     "data_components": [
         {
@@ -15,6 +15,6 @@
     "guid": "c03dcc35-b19f-4772-b0bf-5b0a62105699",
     "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
     "dependencies": [
-        "0834b646-4bd1-be0c-5c9c-9722f01332dd"
+        "d3215f9a-e003-9095-2441-06a2fe91e5ae"
     ]
 }

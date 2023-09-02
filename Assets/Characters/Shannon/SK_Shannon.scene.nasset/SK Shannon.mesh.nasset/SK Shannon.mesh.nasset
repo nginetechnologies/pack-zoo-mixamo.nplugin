@@ -1,0 +1,120 @@
+{
+    "guid": "b2b05704-b6bf-9249-9367-1ea5c790b136",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "cdae469f-f37d-a2d9-6318-db74ec8ec46f",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "b3091bf0-f57a-89a8-3e7f-1fffc7150590",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK Shannon Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "aebd37f5-c07e-6f2d-487b-ceb6e58ba855",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "7512ede8-b8f8-4304-8483-3cc4768833da",
+                                "f885ef63-3b28-4d3c-9015-41bf8382b8e0",
+                                "c022f57f-603e-4716-84fd-1993db7164d2"
+                            ],
+                            "jump_animations": [
+                                "f78acecb-a21a-4dd8-a735-f676dcc2fabc",
+                                "2322db19-bf35-4941-83da-44d7ac2bc96b",
+                                "4b092771-22b3-4465-8c3c-ba44a813da8e"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "03db07a2-81d8-e40d-b8d3-61adddd79196",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Shannon Shannon Body"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "dbc15318-7c64-4505-7d9b-1c99ebe90f99",
+                                "material_instance": "086236ee-bf57-c387-817b-54202087e8ba"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "d4084660-8175-5492-391e-ffc66f4d8952"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "8f41181c-a6ea-4a44-d467-3070bc3881fd",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK Shannon Shannon Hair"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "f98e517c-5b71-827e-9207-6932b4d22fe1",
+                                "material_instance": "01d09091-6bc0-05d1-1662-de9370b807f7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "82edd323-2026-2264-eec5-a3a2b1cdeca5"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "c5b73275-b853-b3ed-44de-b00bab506307"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "b2b05704-b6bf-9249-9367-1ea5c790b136"
+    },
+    "dependencies": [
+        "086236ee-bf57-c387-817b-54202087e8ba",
+        "dbc15318-7c64-4505-7d9b-1c99ebe90f99",
+        "d4084660-8175-5492-391e-ffc66f4d8952",
+        "01d09091-6bc0-05d1-1662-de9370b807f7",
+        "f98e517c-5b71-827e-9207-6932b4d22fe1",
+        "82edd323-2026-2264-eec5-a3a2b1cdeca5",
+        "c5b73275-b853-b3ed-44de-b00bab506307",
+        "7512ede8-b8f8-4304-8483-3cc4768833da",
+        "f885ef63-3b28-4d3c-9015-41bf8382b8e0",
+        "c022f57f-603e-4716-84fd-1993db7164d2",
+        "f78acecb-a21a-4dd8-a735-f676dcc2fabc",
+        "2322db19-bf35-4941-83da-44d7ac2bc96b",
+        "4b092771-22b3-4465-8c3c-ba44a813da8e"
+    ]
+}

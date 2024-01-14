@@ -1,0 +1,120 @@
+{
+    "guid": "44272daf-32e9-218a-4299-cca386218acb",
+    "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+    "tags": [
+        "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+    ],
+    "typeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+    "instanceGuid": "16eaf74b-f254-b8a9-f1f8-315bbcd8c114",
+    "data_components": [],
+    "children": [
+        {
+            "typeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+            "instanceGuid": "3a438840-87a8-8c8a-8103-e5475803606b",
+            "data_components": [
+                {
+                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                    "name": "SK YBot Physics Body"
+                },
+                {
+                    "typeGuid": "653ee503-f473-47d2-be45-08a577d17b86",
+                    "type": 0
+                }
+            ],
+            "children": [
+                {
+                    "typeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+                    "instanceGuid": "fcb64d77-7d9a-4b0d-3db4-2210c6cfb24e",
+                    "data_components": [
+                        {
+                            "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                            "name": "Skeleton"
+                        },
+                        {
+                            "typeGuid": "e5e2c08b-0844-422a-9ef8-83629288cc54",
+                            "move_animations": [
+                                "e1ee4aaf-3c4b-47c6-b01f-13113155a9f3",
+                                "05503d47-04eb-4cef-828f-da2fe9102779",
+                                "555ef39a-a04a-46a1-b3d9-cd49f53ec9c8"
+                            ],
+                            "jump_animations": [
+                                "352dfc81-9c8b-44ec-85ed-7a4040905dea",
+                                "90c0b838-bfab-4525-9f59-6c0141e83e00",
+                                "a7b73aa4-15cc-471b-bd9e-b9489bdcd211"
+                            ]
+                        }
+                    ],
+                    "children": [
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "5cc452d7-b072-4af8-53bf-2fd443489b56",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK YBot Ybot Joints"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "e9cd3787-ae9b-1164-11f5-f5f83ed4bb0e",
+                                "material_instance": "e5e9a199-1edb-3540-a703-bb5253cc144a"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "bfd3665d-c579-137c-7d9b-bbacfa045062"
+                            }
+                        },
+                        {
+                            "typeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+                            "instanceGuid": "5cc2fdc6-f08c-7381-cf6e-d83ecf9d4744",
+                            "data_components": [
+                                {
+                                    "typeGuid": "fefa51b8-945d-4f88-8859-356c7546efa7",
+                                    "name": "SK YBot Ybot Body"
+                                }
+                            ],
+                            "9f750482-b822-4d4b-be6a-9c135c614328": {
+                                "stages": [
+                                    "bba6ad40-e1ee-4f1e-baf8-608ff9e7d77f",
+                                    "dfca0ef8-eded-4660-8adb-43c0aa8f4e60"
+                                ]
+                            },
+                            "de0b2bc1-2e72-4739-a749-f5281e0de55a": {
+                                "mesh": "cd975fbc-7954-e6ec-4efe-36a62a474819",
+                                "material_instance": "55a5cf14-bd3f-9f23-f375-0cb6029839a7"
+                            },
+                            "e7a94bbc-9e75-47fe-8279-322b9f7a207f": {
+                                "skin": "b1a541fa-ad37-11e0-bf79-bdde5e194226"
+                            }
+                        }
+                    ],
+                    "f6140603-c29e-4bf9-946d-498dba6709ff": {
+                        "skeleton": "e5d59c27-6bcd-3067-ae99-33e330963b06"
+                    }
+                }
+            ]
+        }
+    ],
+    "0c3f4f29-0d53-4878-922a-cca7d6af7bb6": {
+        "scene": "44272daf-32e9-218a-4299-cca386218acb"
+    },
+    "dependencies": [
+        "e5e9a199-1edb-3540-a703-bb5253cc144a",
+        "e9cd3787-ae9b-1164-11f5-f5f83ed4bb0e",
+        "bfd3665d-c579-137c-7d9b-bbacfa045062",
+        "55a5cf14-bd3f-9f23-f375-0cb6029839a7",
+        "cd975fbc-7954-e6ec-4efe-36a62a474819",
+        "b1a541fa-ad37-11e0-bf79-bdde5e194226",
+        "e5d59c27-6bcd-3067-ae99-33e330963b06",
+        "e1ee4aaf-3c4b-47c6-b01f-13113155a9f3",
+        "05503d47-04eb-4cef-828f-da2fe9102779",
+        "555ef39a-a04a-46a1-b3d9-cd49f53ec9c8",
+        "352dfc81-9c8b-44ec-85ed-7a4040905dea",
+        "90c0b838-bfab-4525-9f59-6c0141e83e00",
+        "a7b73aa4-15cc-471b-bd9e-b9489bdcd211"
+    ]
+}

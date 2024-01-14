@@ -47,6 +47,14 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Mutant/Thumbnails/Mutant.scene.nasset.tex.nasset"
     },
+    "05503d47-04eb-4cef-828f-da2fe9102779": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/YBot/YBot_Walk.anim.nasset",
+        "dependencies": [
+            "e5d59c27-6bcd-3067-ae99-33e330963b06"
+        ]
+    },
     "05b0b4c9-bfc0-00ae-26f3-647b7337d138": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Erika/textures/T_Archer_Clothes_D.tex.nasset"
@@ -65,6 +73,14 @@
             "823c2217-c942-cf41-03c7-17d9019b5ce8",
             "4a429dd3-245e-8167-a7ca-50cd97933f9c",
             "5da2101b-6970-4153-4885-144d77ebd6c2"
+        ]
+    },
+    "08c9d9b8-3b77-8acd-07e3-8d6724b06ef1": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/YBot/SK_YBot.scene.nasset/SK_YBot.scene.nasset",
+        "dependencies": [
+            "44272daf-32e9-218a-4299-cca386218acb"
         ]
     },
     "0a4b4d7f-32a8-2d42-be44-70fc8a7367d1": {
@@ -299,6 +315,10 @@
             "0834b646-4bd1-be0c-5c9c-9722f01332dd"
         ]
     },
+    "333f09a9-f579-42ca-9872-11e4c9a113df": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/YBot/Thumbnails/YBot.scene.nasset.tex.nasset"
+    },
     "349f8586-e604-1747-7a6a-6fd6737bd755": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -309,6 +329,14 @@
         "dependencies": [
             "c4e0790c-2c4a-89aa-452e-25a708cf5b47",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "352dfc81-9c8b-44ec-85ed-7a4040905dea": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/YBot/YBot_Jump_Start.anim.nasset",
+        "dependencies": [
+            "e5d59c27-6bcd-3067-ae99-33e330963b06"
         ]
     },
     "356ba103-6e05-4de3-8d40-244f5f3b450f": {
@@ -456,6 +484,29 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Nordstrom/textures/T_Nordstrom_N.tex.nasset"
     },
+    "44272daf-32e9-218a-4299-cca386218acb": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/YBot/SK_YBot.scene.nasset/SK YBot.mesh.nasset/SK YBot.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "e5e9a199-1edb-3540-a703-bb5253cc144a",
+            "e9cd3787-ae9b-1164-11f5-f5f83ed4bb0e",
+            "bfd3665d-c579-137c-7d9b-bbacfa045062",
+            "55a5cf14-bd3f-9f23-f375-0cb6029839a7",
+            "cd975fbc-7954-e6ec-4efe-36a62a474819",
+            "b1a541fa-ad37-11e0-bf79-bdde5e194226",
+            "e5d59c27-6bcd-3067-ae99-33e330963b06",
+            "e1ee4aaf-3c4b-47c6-b01f-13113155a9f3",
+            "05503d47-04eb-4cef-828f-da2fe9102779",
+            "555ef39a-a04a-46a1-b3d9-cd49f53ec9c8",
+            "352dfc81-9c8b-44ec-85ed-7a4040905dea",
+            "90c0b838-bfab-4525-9f59-6c0141e83e00",
+            "a7b73aa4-15cc-471b-bd9e-b9489bdcd211"
+        ]
+    },
     "44f56045-fa56-d080-496a-3ca673796eab": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -593,6 +644,14 @@
             "0a4b4d7f-32a8-2d42-be44-70fc8a7367d1"
         ]
     },
+    "555ef39a-a04a-46a1-b3d9-cd49f53ec9c8": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/YBot/YBot_Run.anim.nasset",
+        "dependencies": [
+            "e5d59c27-6bcd-3067-ae99-33e330963b06"
+        ]
+    },
     "558f1c4b-790c-89b1-f915-959db0ab8430": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
         "path": "Assets/Characters/Steve/Material Instances/Steve 2.mtli.nasset",
@@ -602,6 +661,14 @@
             "8340abf3-ccfd-9487-2d29-5d8b2b1e9c79",
             "14ccf187-23e9-5a51-ee70-eba5b1b4bc44",
             "0f67848d-7682-cc64-ed41-b1b1ecd9ec40"
+        ]
+    },
+    "55a5cf14-bd3f-9f23-f375-0cb6029839a7": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/YBot/Material Instances/Ybot Body.mtli.nasset",
+        "thumbnail": "91106c7e-eb3b-a11f-063d-65b3c22e2bc2",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
         ]
     },
     "561804dd-7618-4237-ae2a-5d41b6d416e8": {
@@ -699,6 +766,18 @@
             "7142e1a5-e5e0-66cf-743a-d339ab8506f9",
             "b41fd479-720f-e53d-7e32-3285fae26e60",
             "558f1c4b-790c-89b1-f915-959db0ab8430"
+        ]
+    },
+    "6b973a41-79fa-4a11-b5e5-4ca36376f65f": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/YBot/YBot.scene.nasset",
+        "thumbnail": "333f09a9-f579-42ca-9872-11e4c9a113df",
+        "tags": [
+            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
+        ],
+        "dependencies": [
+            "44272daf-32e9-218a-4299-cca386218acb"
         ]
     },
     "70711f74-4f21-e9cd-74b8-164e868dd5d8": {
@@ -948,6 +1027,18 @@
             "c4e0790c-2c4a-89aa-452e-25a708cf5b47"
         ]
     },
+    "90c0b838-bfab-4525-9f59-6c0141e83e00": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/YBot/YBot_Jump_Loop.anim.nasset",
+        "dependencies": [
+            "e5d59c27-6bcd-3067-ae99-33e330963b06"
+        ]
+    },
+    "91106c7e-eb3b-a11f-063d-65b3c22e2bc2": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/YBot/Material Instances/Thumbnails/Ybot Body.mtli.nasset.tex.nasset"
+    },
     "91297523-9c92-490c-9eec-34eb37cce85e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1067,6 +1158,14 @@
             "ee1d0c24-ccce-5ef0-8d69-27d470278fdf"
         ]
     },
+    "a7b73aa4-15cc-471b-bd9e-b9489bdcd211": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/YBot/YBot_Jump_End.anim.nasset",
+        "dependencies": [
+            "e5d59c27-6bcd-3067-ae99-33e330963b06"
+        ]
+    },
     "aa25701c-9987-419f-a63d-bbaa25585dd2": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1109,6 +1208,16 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Nordstrom/Thumbnails/Nordstrom.scene.nasset.tex.nasset"
     },
+    "b1a541fa-ad37-11e0-bf79-bdde5e194226": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/YBot/SK_YBot.scene.nasset/SK YBot.mesh.nasset/SK YBot Ybot Body.meshskin.nasset",
+        "dependencies": [
+            "cd975fbc-7954-e6ec-4efe-36a62a474819",
+            "e5d59c27-6bcd-3067-ae99-33e330963b06",
+            "55a5cf14-bd3f-9f23-f375-0cb6029839a7"
+        ]
+    },
     "b2b05704-b6bf-9249-9367-1ea5c790b136": {
         "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
         "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
@@ -1131,6 +1240,10 @@
             "2322db19-bf35-4941-83da-44d7ac2bc96b",
             "4b092771-22b3-4465-8c3c-ba44a813da8e"
         ]
+    },
+    "b39728aa-f654-f585-dae9-95bda5a02962": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Characters/YBot/Material Instances/Thumbnails/Ybot Joints.mtli.nasset.tex.nasset"
     },
     "b41fd479-720f-e53d-7e32-3285fae26e60": {
         "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
@@ -1197,6 +1310,16 @@
         "path": "Assets/Characters/Erika/SK_Erika.scene.nasset/SK_Erika.scene.nasset",
         "dependencies": [
             "3650cb7f-e7db-0f62-dbc0-c9f91b9b7e08"
+        ]
+    },
+    "bfd3665d-c579-137c-7d9b-bbacfa045062": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/YBot/SK_YBot.scene.nasset/SK YBot.mesh.nasset/SK YBot Ybot Joints.meshskin.nasset",
+        "dependencies": [
+            "e9cd3787-ae9b-1164-11f5-f5f83ed4bb0e",
+            "e5d59c27-6bcd-3067-ae99-33e330963b06",
+            "e5e9a199-1edb-3540-a703-bb5253cc144a"
         ]
     },
     "c022f57f-603e-4716-84fd-1993db7164d2": {
@@ -1330,6 +1453,18 @@
         ],
         "dependencies": [
             "0bb84bff-2f47-66b9-f507-e237a37b9317",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
+    "cd975fbc-7954-e6ec-4efe-36a62a474819": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/YBot/SK_YBot.scene.nasset/SK YBot.mesh.nasset/SK YBot Ybot Body.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "55a5cf14-bd3f-9f23-f375-0cb6029839a7",
             "db5dc618-2cfe-44e9-a319-69c503d090e7"
         ]
     },
@@ -1524,6 +1659,14 @@
             "2dc614d6-fd0a-5a73-80b8-678b244304d0"
         ]
     },
+    "e1ee4aaf-3c4b-47c6-b01f-13113155a9f3": {
+        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/YBot/YBot_Idle.anim.nasset",
+        "dependencies": [
+            "e5d59c27-6bcd-3067-ae99-33e330963b06"
+        ]
+    },
     "e232891f-3871-4a4f-b9de-b18a2f19f67e": {
         "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
         "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
@@ -1548,9 +1691,34 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Kachujin/Thumbnails/Kachujin.scene.nasset.tex.nasset"
     },
+    "e5d59c27-6bcd-3067-ae99-33e330963b06": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/YBot/SK_YBot.scene.nasset/SK YBot.mesh.nasset/Skeletons/RootNode.skel.nasset"
+    },
+    "e5e9a199-1edb-3540-a703-bb5253cc144a": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/YBot/Material Instances/Ybot Joints.mtli.nasset",
+        "thumbnail": "b39728aa-f654-f585-dae9-95bda5a02962",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "e915f6fa-1f7b-54a1-437b-f073a66846d9": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Kaya/textures/T_Kaya_M.tex.nasset"
+    },
+    "e9cd3787-ae9b-1164-11f5-f5f83ed4bb0e": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/YBot/SK_YBot.scene.nasset/SK YBot.mesh.nasset/SK YBot Ybot Joints.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "e5e9a199-1edb-3540-a703-bb5253cc144a",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
     },
     "eccc8bbb-9a57-dd00-8dac-31f535dd7760": {
         "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",

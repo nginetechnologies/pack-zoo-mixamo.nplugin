@@ -192,6 +192,13 @@
             "46fb6551-fd97-4caf-bdb4-581b4a14db65"
         ]
     },
+    "1a57a788-dad0-da4c-5a07-0579799db85b": {
+        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+        "path": "Assets/Characters/XBot/Material Instances/Joints.mtli.nasset",
+        "dependencies": [
+            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
+        ]
+    },
     "1cb726f0-29e7-bd3a-9718-6de13ac964bd": {
         "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
         "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
@@ -389,6 +396,11 @@
     "36e2a009-3dfc-8f31-38b5-40e32c42c6c6": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Erika/textures/T_Archer_Body_N.tex.nasset"
+    },
+    "376cfc6c-01b8-4a52-46b5-3b05d881212d": {
+        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
+        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
+        "path": "Assets/Characters/XBot/SK_Xbot_Joints.scene.nasset/Xbot Joints.mesh.nasset/Skeletons/RootNode.skel.nasset"
     },
     "37c90c69-6b1a-cdb8-1cfb-f58d7e277aa2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -1005,6 +1017,16 @@
             "24d39dd4-7bcb-be9a-ae6c-2c7b27df6540"
         ]
     },
+    "8f26c42f-c656-904f-80e1-8774321b8290": {
+        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
+        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
+        "path": "Assets/Characters/XBot/SK_Xbot_Joints.scene.nasset/Xbot Joints.mesh.nasset/Xbot Joints Joints.meshskin.nasset",
+        "dependencies": [
+            "e404f722-c6da-3ad0-2082-e5c7db0ccf24",
+            "376cfc6c-01b8-4a52-46b5-3b05d881212d",
+            "1a57a788-dad0-da4c-5a07-0579799db85b"
+        ]
+    },
     "900fa5c0-5d62-5600-0d26-0da8783eee51": {
         "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
         "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
@@ -1320,6 +1342,20 @@
             "e9cd3787-ae9b-1164-11f5-f5f83ed4bb0e",
             "e5d59c27-6bcd-3067-ae99-33e330963b06",
             "e5e9a199-1edb-3540-a703-bb5253cc144a"
+        ]
+    },
+    "bfdfb1c7-3af4-e27a-a50d-21e93701b424": {
+        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/XBot/SK_Xbot_Joints.scene.nasset/Xbot Joints.mesh.nasset/Main.mesh.nasset",
+        "tags": [
+            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
+        ],
+        "dependencies": [
+            "1a57a788-dad0-da4c-5a07-0579799db85b",
+            "e404f722-c6da-3ad0-2082-e5c7db0ccf24",
+            "8f26c42f-c656-904f-80e1-8774321b8290",
+            "376cfc6c-01b8-4a52-46b5-3b05d881212d"
         ]
     },
     "c022f57f-603e-4716-84fd-1993db7164d2": {
@@ -1687,6 +1723,18 @@
             "1a26e71d-6a90-7088-eab7-a4051530f29f"
         ]
     },
+    "e404f722-c6da-3ad0-2082-e5c7db0ccf24": {
+        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
+        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
+        "path": "Assets/Characters/XBot/SK_Xbot_Joints.scene.nasset/Xbot Joints.mesh.nasset/Xbot Joints Joints.mesh.nasset",
+        "tags": [
+            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
+        ],
+        "dependencies": [
+            "1a57a788-dad0-da4c-5a07-0579799db85b",
+            "db5dc618-2cfe-44e9-a319-69c503d090e7"
+        ]
+    },
     "e5d0dbce-2dca-4c48-9149-6a42020c309c": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Kachujin/Thumbnails/Kachujin.scene.nasset.tex.nasset"
@@ -1761,6 +1809,14 @@
         "path": "Assets/Characters/Kaya/Kaya_Idle.anim.nasset",
         "dependencies": [
             "d79fa97a-91a9-16c5-d4f5-12d6bc7498ed"
+        ]
+    },
+    "f18d0ed2-a7a3-28f9-6cd1-1550f56d76af": {
+        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
+        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
+        "path": "Assets/Characters/XBot/SK_Xbot_Joints.scene.nasset/Main.scene.nasset",
+        "dependencies": [
+            "bfdfb1c7-3af4-e27a-a50d-21e93701b424"
         ]
     },
     "f1db00ae-1dc2-eedd-284c-a1ccc20826fa": {

@@ -397,11 +397,6 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Erika/textures/T_Archer_Body_N.tex.nasset"
     },
-    "376cfc6c-01b8-4a52-46b5-3b05d881212d": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/XBot/SK_Xbot_Joints.scene.nasset/Xbot Joints.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
     "37c90c69-6b1a-cdb8-1cfb-f58d7e277aa2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Characters/Nordstrom/textures/T_Nordstrom_D.tex.nasset"
@@ -1355,7 +1350,13 @@
             "1a57a788-dad0-da4c-5a07-0579799db85b",
             "e404f722-c6da-3ad0-2082-e5c7db0ccf24",
             "8f26c42f-c656-904f-80e1-8774321b8290",
-            "376cfc6c-01b8-4a52-46b5-3b05d881212d"
+            "c21f3cac-2980-fa6b-c73a-08f53c76afa8",
+            "f2de2883-1a3c-432f-bfe1-21bd048e4a47",
+            "9587ce6c-b613-4c27-8fca-c66f0a3324c9",
+            "f4938e8d-4b1c-4052-a801-5d51cdad96f6",
+            "1d67021c-38b2-4476-948d-c999a5c58f3d",
+            "13e68894-c286-460c-b7aa-0ae1288f77f0",
+            "46fb6551-fd97-4caf-bdb4-581b4a14db65"
         ]
     },
     "c022f57f-603e-4716-84fd-1993db7164d2": {
